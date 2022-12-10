@@ -1,6 +1,8 @@
-### Hi there 👋 
-#### I'm Nasser Salah Yazgi. 💪
-I am a mobile app developer using **[FLUTTER]()**.
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Nasser Salah Yazgi</h1>
+<h3 align="center">A Flutter Mobile Developer || Competitive-Programming || Software Architect </h3>
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
  > 🌍    I'm From Palestine - Gaza .
  
@@ -23,6 +25,13 @@ I am a mobile app developer using **[FLUTTER]()**.
 
 </p>
 </details>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nasser-yazgi-500b20230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nasser-yazgi-500b20230/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nasseryazgi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nasseryazgi1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nasseryazgi/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nasseryazgi/featured" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/naseryazgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/naseryazgi" height="30" width="40" /></a>
+</p>
 
 
 <!--
