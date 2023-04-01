@@ -6,7 +6,6 @@
 
  > 🌍    I'm From Palestine - Gaza .
  
- > 🧑‍💻 I'm Working from freelancing ... 
 - 💬 Ask me about : **C++ , Competitive-Programming , Flutter , Software Design**
 
 <details><summary><strong><h3>🤷‍♂️ What are the skills of this guy?</h3></strong></summary>
